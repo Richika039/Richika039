@@ -9,7 +9,6 @@
 
 - 🌱 J'apprends actuellement **Threejs, Blender,Javascript,**
 
-<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="gauche">
 </p>
 
