@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Laurence</h1>
+<h1 align="center">Salut 👋, je suis Richika</h1>
 <h3 align="center">Un développement web, 3D et créatif passionné</h3>
 
 <p align="gauche"> <img src="https://komarev.com/ghpvc/?username=richika039&label=Profile%20views&color=0e75b6&style=flat" alt="richika039" /> </p>
